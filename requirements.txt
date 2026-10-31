@@ -1,0 +1,12 @@
+diffusers
+transformers
+accelerate
+rembg
+onnxruntime-gpu
+trimesh
+gradio
+opencv-python-headless
+pillow
+omegaconf
+einops
+huggingface_hub
